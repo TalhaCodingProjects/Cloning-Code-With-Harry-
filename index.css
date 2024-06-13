@@ -21,7 +21,7 @@ body {
 
 .heading {
   position: relative;
-  left: 3rem;
+  left: 2rem;
   top: 0.5rem;
 }
 
@@ -48,13 +48,13 @@ body {
   display: flex;
   width: 100%;
   margin: auto;
-  padding: 35px 0px;
+  padding: 25px 0px;
   align-items: center;
 }
 
 .navbar ul {
   position: relative;
-  left: 30rem;
+  left: 24rem;
 }
 
 .navbar ul li {
@@ -92,7 +92,7 @@ body {
 
 .navbar-icons {
   position: relative;
-  left: 30.7rem;
+  left: 24.7rem;
   top: 0.5rem;
 }
 
@@ -109,7 +109,7 @@ body {
 }
 
 .navbar-buttons {
-  margin-left: 32rem;
+  margin-left: 26rem;
   margin-top: 1rem;
 }
 
@@ -189,7 +189,7 @@ body {
 .hero-heading {
   margin-top: 3rem;
   margin-left: 3rem;
-  width: 43%;
+  width: 45%;
 }
 
 #Banner-heading {
@@ -200,8 +200,8 @@ body {
 }
 
 .banner-buttons button{
-    width: 200px;
-    padding: 15px 0;
+    width: 12vw;
+    padding: 2vh 0;
     text-align: center;
     font-weight: bold;
     border-radius: 25px;
@@ -257,7 +257,7 @@ body {
 }
 
 .hero-image{
-    margin-left: 4rem;
+    margin-left: 0rem;
     margin-top: 1rem;
 }
 
